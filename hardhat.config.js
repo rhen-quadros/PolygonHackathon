@@ -10,7 +10,7 @@ module.exports = {
     hardhat: {
     },
      PolygonMumbai: {
-      url: "https://polygon-mumbai.g.alchemy.com/v2/VHpXRtrowhMlqwYZh9zkqI5dbkNwYFFZ",
+      url: "https://rpc-mumbai.matic.today",
       accounts: [PRIVATE_KEY]
     }
   },
